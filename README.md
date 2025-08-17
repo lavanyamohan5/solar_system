@@ -1,31 +1,31 @@
-# Solar Explorer 🌍🌌
+# 🌌 Solar Explorer
 
-This is my **modified version** of a Solar System simulation project.  
-I started with an existing project I found online, and then customized it by:  
-- Rewriting the planet descriptions in my own words.  
-- Making visual adjustments to the animations and styles.  
-- Adding new interactive elements.  
+Solar Explorer is a simple **solar system simulation** built using HTML, CSS, and JavaScript.  
+It visually demonstrates how planets orbit around the Sun with smooth animations.  
 
-The goal was to learn by **studying existing code** and then making it **my own**.  
+⚠️ **Note:** This project is for **study and learning purposes only**.  
+The base code was adapted from online references, and I made some small changes to understand the concepts better.  
+All credits go to the original creator(s).  
 
 ---
 
-## 🚀 Features
-- Interactive Solar System view.
-- About section with re-written descriptions for each planet.
-- Orbit animations and styled visuals.
-- My custom tweaks & fun facts.
+## ✨ Features
+- 🪐 Animated representation of the eight planets and that drawf planet too.  
+- 🌍 Different orbital speeds for each planet (like in real life).  
+- 🎨 Simple design using HTML & CSS.  
+- ⚡ Smooth JavaScript animations for rotation and revolution.  
+- 📱 Runs directly in the browser without extra installations.  
 
 ---
 
 ## 🛠️ Technologies Used
-- HTML, CSS, JavaScript
+- **HTML5** → for structure  
+- **CSS3** → for styling the planets and orbits  
+- **JavaScript** → for animation and motion logic  
 
 ---
 
-## 📚 Learning Outcome
-- Improved my understanding of DOM manipulation.
-- Learned how to modify existing codebases.
-- Explored creative ways to present information interactively.
-
----
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/lavanyamohan5/solar_system.git
